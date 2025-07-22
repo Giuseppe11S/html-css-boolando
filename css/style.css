@@ -92,6 +92,19 @@ ul li {
   position: relative;
 }
 
+/* Cambio foto in hover per le card */
+.image-wrapper:hover .main-img {
+  display: none;
+}
+
+.image-wrapper:hover .img-display {
+  display: block;
+}
+
+.img-display{
+  display: none;
+}
+
 /* Label per la prima riga */
 .labels{
   top: 300px;
@@ -152,6 +165,7 @@ ul li {
 
 /* Footer */
 .container-footer{
+  margin-top: 40px;
   background-color: rgb(26, 26, 26);
   color: white;
   display: flex;
