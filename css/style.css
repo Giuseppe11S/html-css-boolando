@@ -149,3 +149,24 @@ ul li {
   top: 50px;
   left: 208px;
 }
+
+/* Footer */
+.container-footer{
+  background-color: rgb(26, 26, 26);
+  color: white;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 20px 0px;
+}
+
+.footer-left span{
+  font-size: 10px;
+}
+
+.footer-right span{
+  font-size: 10px;
+}
+
+.container-icons-footer{
+  margin-top: 5px;
+}
