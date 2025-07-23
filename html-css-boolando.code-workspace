@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../htmlcss-struttura-discord"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html-css-boolando"
+	}
+}
