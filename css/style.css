@@ -108,7 +108,7 @@ ul li {
 /* Label per la prima riga */
 .labels{
   top: 300px;
-  left: 10px;
+  left: 8px;
   position: absolute;
   color: white;
   font-size: 10px;
@@ -137,7 +137,7 @@ ul li {
 /* Seconda riga layout */
 .labels2{
   top: 340px;
-  left: 10px;
+  left: 8px;
   position: absolute;
   color: white;
   font-size: 10px;
